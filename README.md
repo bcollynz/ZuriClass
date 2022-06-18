@@ -1,3 +1,2 @@
 # ZuriClass
-Class Assessment
 Hello
