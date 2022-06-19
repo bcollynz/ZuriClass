@@ -8,13 +8,16 @@ body{
     background-color:white;
 }
 
-
+.col-container {
+    display: flex;
+    width: 100%;
+}
 main{
     width:60%;
     margin:auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     min-height: 100vh;
     flex-direction: row;
     
@@ -77,7 +80,7 @@ p{
     color: orange;
     border-radius: 14px;
     border:none;
-    cursor: pointer;
+    cursor:pointer;
 }
 h2.belowimg{
     padding: 30px 0px 15px 0px;
@@ -96,5 +99,3 @@ h2.belowimg{
   text-decoration: none;
   font-size: 17px;
   }
-
-  
